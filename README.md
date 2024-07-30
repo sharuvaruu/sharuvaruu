@@ -1,6 +1,6 @@
 # 👋 Hey There! I’m Sharvari Salodkar, but you can call me sharuvaruu! 🚀
 
-![Header Image](https://media.giphy.com/media/3o7TKv0OQtvDPK8xlW/giphy.gif)
+![Header Image](https://iconscout.com/lottie-animations/machine-learning) GIF by [Motionguzz](https://iconscout.com/contributors/ghanshyam)
 
 Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions that are smarter, faster, and occasionally more humorous than your average chatbot. 😄
 
