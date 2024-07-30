@@ -1,4 +1,4 @@
-# sharvari salodkar or you can just call me sharuvaruu!!
+# Hey I am Sharvari Salodkar but you can just call me sharuvaruu!!
 
 Welcome to my GitHub profile! I'm Sharvari Salodkar, a passionate software developer and aspiring SDE intern, with a strong focus on Machine Learning, Deep Learning, and Large Language Models.
 
@@ -7,13 +7,7 @@ Welcome to my GitHub profile! I'm Sharvari Salodkar, a passionate software devel
 ## About Me
 
 - **Name**: Sharvari Salodkar
-- **Education**: B.Tech in Information Technology
-- **Certifications**:
-  - Creating Image Captioning Models - Google Cloud Skills Boost
-  - Introduction to Generative AI - Google Cloud Skills Boost
-  - Introduction to Large Language Models - Google Cloud Skills Boost
-  - Machine Learning Algorithms - Great Learning
-  - Programming for Everybody (Getting Started with Python) - Coursera
+- **Education**: B.Tech in Information Technology from SGGSIE&T
 
 ---
 
@@ -58,6 +52,14 @@ A project utilizing Jupyter Notebook for performing text clustering and topic mo
 - **Machine Learning/Deep Learning/LLMs**: Continuously expanding my knowledge and skills in these areas.
 - **Web Development**: Just started learning web development in detail, focusing on JavaScript and its frameworks.
 - **DSA**: Actively learning and practicing Data Structures and Algorithms to improve my problem-solving skills.
+
+---
+## 🎖️ Certifications
+  - Creating Image Captioning Models - Google Cloud Skills Boost
+  - Introduction to Generative AI - Google Cloud Skills Boost
+  - Introduction to Large Language Models - Google Cloud Skills Boost
+  - Machine Learning Algorithms - Great Learning
+  - Programming for Everybody (Getting Started with Python) - Coursera
 
 ---
 
