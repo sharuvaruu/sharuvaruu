@@ -1,9 +1,10 @@
-# 👋 Hey There! I’m Sharvari Salodkar, but you can call me sharuvaruu! 
+# 👋 Hey There! I’m Sharvari Salodkar, but you can call me sharuvaruu! 🚀
 
-
-Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions and honestly I am still figuring out in life!
+Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions that are smarter, faster, and occasionally more humorous than your average chatbot. 😄
 
 Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚
+
+Currently, I’m knee-deep in developing **[Manasadhana](https://github.com/sharuvaruu/manasadhana)** – a project that’s on a mission to make mental health support as accessible as ordering a pizza (minus the cheesy jokes, of course).
 
 ---
 
@@ -11,8 +12,6 @@ Oh, and I’m also a writer by passion – because who doesn’t love a good sto
 
 - **Name**: Sharvari Salodkar
 - **Education**: B.Tech in Information Technology from SGGSIE&T
-
-Currently, I’m knee-deep in developing **[Manasadhana](https://github.com/sharuvaruu/manasadhana)** – a project that’s on a mission to make mental health support as accessible as ordering a pizza (minus the cheesy jokes, of course).
 
 ---
 
@@ -42,7 +41,7 @@ Currently, I’m knee-deep in developing **[Manasadhana](https://github.com/shar
 ![DBMS](https://img.shields.io/badge/DBMS-%23336699.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Other Skills**  
-Master of Machine Learning, Data Structures and Algorithms (DSA) Connoisseur, Deep Learning Fanatic
+Enthusiastic Learner of Machine Learning, Deep Learning, and Data Structures and Algorithms (DSA)
 
 ---
 
@@ -73,6 +72,8 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
 - **Programming for Everybody (Getting Started with Python)** - Coursera
 
 ---
+
+
 
 ## 📫 Get in Touch
 
