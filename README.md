@@ -1,4 +1,4 @@
-# Sharvari Salodkar or you can just call me sharuvaruu!!
+# sharvari salodkar or you can just call me sharuvaruu!!
 
 Welcome to my GitHub profile! I'm Sharvari Salodkar, a passionate software developer and aspiring SDE intern, with a strong focus on Machine Learning, Deep Learning, and Large Language Models.
 
