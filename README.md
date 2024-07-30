@@ -1,6 +1,6 @@
 # 👋 Hey There! I’m Sharvari Salodkar, but you can call me sharuvaruu! 🚀
 
-Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions that are smarter, faster, and occasionally more humorous than your average chatbot. 😄
+Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions. Honestly i am still figuring out in life!
 
 Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚
 
