@@ -1,7 +1,5 @@
 # Sharvari Salodkar - GitHub Profile
 
-![GitHub Banner](https://your-image-url-here.com/banner.jpg)
-
 Welcome to my GitHub profile! I'm Sharvari Salodkar, a passionate software developer and aspiring SDE intern, with a strong focus on Machine Learning, Deep Learning, and Large Language Models.
 
 ---
