@@ -8,6 +8,22 @@
 > Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚
 
 ---
+## 🔭 About Me
+
+- **Name**: Sharvari Salodkar
+- **Education**: B.Tech in Information Technology from SGGSIE&T
+
+---
+
+## 🌟 Featured Projects
+
+### [Workoutapp](https://github.com/sharuvaruu/Workoutapp)
+A JavaScript-powered fitness companion to track workouts. It’s like having a personal trainer, minus the sweat and motivational speeches. 🏋️‍♀️
+
+### [Text Clustering and Topic Modelling](https://github.com/sharuvaruu/text-clustering-topic-modelling)
+A sophisticated Jupyter Notebook project that clusters text and models topics. It’s like sorting your thoughts into neat little boxes, but for data. 📚
+
+---
 
 ## 🛠 Tools & Technologies ⚡
 
@@ -47,30 +63,6 @@ No Activity Tracked This Week
 
  Last Updated on 24/09/2022 18:53:40 UTC
 -->
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
----
-
-## 🔭 About Me
-
-- **Name**: Sharvari Salodkar
-- **Education**: B.Tech in Information Technology from SGGSIE&T
-
----
-
-## 🌟 Featured Projects
-
-### [Workoutapp](https://github.com/sharuvaruu/Workoutapp)
-A JavaScript-powered fitness companion to track workouts. It’s like having a personal trainer, minus the sweat and motivational speeches. 🏋️‍♀️
-
-### [Text Clustering and Topic Modelling](https://github.com/sharuvaruu/text-clustering-topic-modelling)
-A sophisticated Jupyter Notebook project that clusters text and models topics. It’s like sorting your thoughts into neat little boxes, but for data. 📚
-
 ---
 
 ## 🚀 Current Tech Voyages
@@ -93,13 +85,26 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
 
 ## 📫 Get in Touch
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvari-salodkar-587b611a5/)
-- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharuvaruu)
-- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharvarisalodkar12@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/sharuvaruu">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:sharvarisalodkar12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-Explore my coding profiles:
-- [LeetCode](https://leetcode.com/u/sharvarisalodkar/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sharvarisalodkar12/)
+<p align="center">
+  <a href="https://leetcode.com/u/sharvarisalodkar/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">
+    <img src="https://skillicons.dev/icons?i=geeksforgeeks" />
+  </a>
+</p>
 
 ---
 
