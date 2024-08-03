@@ -87,23 +87,23 @@ No Activity Tracked This Week
 
 <p>
   <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sharuvaruu">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" />
   </a>
   <a href="mailto:sharvarisalodkar12@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Email" />
   </a>
 </p>
 
 <p>
   Explore my coding profiles:
   <a href="https://leetcode.com/u/sharvarisalodkar/">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+    <img src="https://img.icons8.com/ios/50/000000/leetcode.png" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">
-    <img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" />
+    <img src="https://img.icons8.com/ios/50/000000/geeks-for-geeks.png" alt="GeeksforGeeks" />
   </a>
 </p>
 
