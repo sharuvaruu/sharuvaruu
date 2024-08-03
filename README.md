@@ -1,15 +1,21 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Sharvari+Salodkar;A+Machine+Learning+Enthusiast;and+A+Deep+Learning+Researcher...+Currently+exploring+the+world+of+AI" />
+# 👋 Hey There! I’m Sharvari Salodkar, but you can call me sharuvaruu! 🚀
 
-### Glad to see you here! 🤩 &nbsp;
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,+I'm+Sharvari+Salodkar;+A+Tech+Enthusiast+and+Passionate+Coder;+Currently+Exploring+AI+and+Machine+Learning+Horizons..." />
 
->I am looking for opportunities and collaboration in projects related to Machine Learning/Deep Learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into developing my skills in Data Structures and Algorithms 🤓. Although a computer science engineer working with AI tools, I am looking forward to sharing and gaining knowledgeable stuff☘️.
+---
 
-<h3>☘️ Currently working on <a href="https://github.com/sharuvaruu/manasadhana"> Manasadhana!!</a></h3>
+### Glad to see you here! 🤩
 
-<h2 align="center">🛠 Tools & Technologies ⚡</h2>
+> Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions. Honestly, I am still figuring out life!  
+> Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚
+
+---
+
+## 🛠 Tools & Technologies ⚡
+
 <p align="center">
   <a href="https://github.com/sharuvaruu">
-    <img src="https://skillicons.dev/icons?i=git,java,python,c,cpp,html,css,js,react,nodejs,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,julia,bash,js,html,css,react,redux,nodejs,express,mongodb,typescript,kotlin,next,angular" />
   </a>
 </p>
 
@@ -21,12 +27,14 @@
   </tr>
 </table>
 
+<!-- [![Sharvari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharuvaruu&theme=tokyonight)](https://github.com/sharuvaruu/github-readme-stats)-->
+<!-- *** -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 <!--
 📊 **This Week I Spent My Time On** 
 
-```text
+text
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
@@ -38,3 +46,63 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 
+
+ Last Updated on 24/09/2022 18:53:40 UTC
+-->
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+---
+
+## 🔭 About Me
+
+- **Name**: Sharvari Salodkar
+- **Education**: B.Tech in Information Technology from SGGSIE&T
+
+---
+
+## 🌟 Featured Projects
+
+### [Workoutapp](https://github.com/sharuvaruu/Workoutapp)
+A JavaScript-powered fitness companion to track workouts. It’s like having a personal trainer, minus the sweat and motivational speeches. 🏋️‍♀️
+
+### [Text Clustering and Topic Modelling](https://github.com/sharuvaruu/text-clustering-topic-modelling)
+A sophisticated Jupyter Notebook project that clusters text and models topics. It’s like sorting your thoughts into neat little boxes, but for data. 📚
+
+---
+
+## 🚀 Current Tech Voyages
+
+- **AI & ML**: Diving into the rabbit hole of Machine Learning, Deep Learning, and LLMs. If it's smarter than a calculator, I’m on it.
+- **Web Crafting**: Molding the web with JavaScript frameworks and Node.js. Making the internet a more dynamic place, one line of code at a time.
+- **Algorithm Mastery**: Practicing DSA to solve problems like a coding superhero. 🦸‍♀️
+
+---
+
+## 🎓 Certifications
+
+- **Creating Image Captioning Models** - Google Cloud Skills Boost
+- **Introduction to Generative AI** - Google Cloud Skills Boost
+- **Introduction to Large Language Models** - Google Cloud Skills Boost
+- **Machine Learning Algorithms** - Great Learning
+- **Programming for Everybody (Getting Started with Python)** - Coursera
+
+---
+
+## 📫 Get in Touch
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvari-salodkar-587b611a5/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharuvaruu)
+- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharvarisalodkar12@gmail.com)
+
+Explore my coding profiles:
+- [LeetCode](https://leetcode.com/u/sharvarisalodkar/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sharvarisalodkar12/)
+
+---
+
+Thanks for dropping by! Keep coding, stay curious, and never underestimate the power of a well-placed semicolon. 🌟
