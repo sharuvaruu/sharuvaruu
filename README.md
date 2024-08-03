@@ -71,9 +71,10 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
   
   Follow my <a href="https://github.com/sharuvaruu">GitHub</a>
 </p>
+
 ---
 
-**⚙️ &nbsp;GitHub Analytics**
+## ⚙️ &nbsp;GitHub Analytics
 <table style="width:100%">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=sharuvaruu&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sharuvaruu" /></td>
