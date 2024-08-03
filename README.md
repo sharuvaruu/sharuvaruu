@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,+I'm+Sharvari+Salodkar;+A+Tech+Enthusiast+and+Passionate+Coder;+Currently+Exploring+AI+and+Machine+Learning+Horizons..." />
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+There!+I’m+Sharvari+Salodkar,+but+you+can+call+me+sharuvaruu!+🚀" />
 
 ---
 
