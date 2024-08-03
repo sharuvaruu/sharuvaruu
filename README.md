@@ -85,27 +85,28 @@ No Activity Tracked This Week
 
 ## 📫 Get in Touch
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">
-    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://github.com/sharuvaruu">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg" alt="GitHub" width="40" height="40" />
   </a>
   <a href="mailto:sharvarisalodkar12@gmail.com">
-    <img src="https://img.icons8.com/ios/50/000000/gmail.png" alt="Email" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/google.svg" alt="Email" width="40" height="40" />
   </a>
 </p>
 
-<p>
+<p align="center">
   Explore my coding profiles:
   <a href="https://leetcode.com/u/sharvarisalodkar/">
-    <img src="https://img.icons8.com/ios/50/000000/leetcode.png" alt="LeetCode" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/leetcode.svg" alt="LeetCode" width="40" height="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">
-    <img src="https://img.icons8.com/ios/50/000000/geeks-for-geeks.png" alt="GeeksforGeeks" />
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/geeksforgeeks.svg" alt="GeeksforGeeks" width="40" height="40" />
   </a>
 </p>
+
 
 
 ---
