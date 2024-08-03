@@ -98,11 +98,12 @@ No Activity Tracked This Week
 </p>
 
 <p align="center">
+  Explore my coding profiles:
   <a href="https://leetcode.com/u/sharvarisalodkar/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-%23F9DC3F.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">
-    <img src="https://skillicons.dev/icons?i=geeksforgeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%230D7D8C.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
