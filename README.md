@@ -85,27 +85,18 @@ No Activity Tracked This Week
 
 ## 📫 Get in Touch
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://github.com/sharuvaruu">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg" alt="GitHub" width="40" height="40" />
-  </a>
-  <a href="mailto:sharvarisalodkar12@gmail.com">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/google.svg" alt="Email" width="40" height="40" />
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">LinkedIn</a> |
+  <a href="https://github.com/sharuvaruu">GitHub</a> |
+  <a href="mailto:sharvarisalodkar12@gmail.com">Email</a>
 </p>
 
-<p align="center">
+<p align="left">
   Explore my coding profiles:
-  <a href="https://leetcode.com/u/sharvarisalodkar/">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/leetcode.svg" alt="LeetCode" width="40" height="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/geeksforgeeks.svg" alt="GeeksforGeeks" width="40" height="40" />
-  </a>
+  <a href="https://leetcode.com/u/sharvarisalodkar/">LeetCode</a> |
+  <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">GeeksforGeeks</a>
 </p>
+
 
 
 
