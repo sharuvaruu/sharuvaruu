@@ -1,5 +1,7 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sharvari+!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sharvari" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=,+but+you+can+call+me+sharuvaruu!+🚀" />
+
 ---
 
 ### Glad to see you here! 🤩
