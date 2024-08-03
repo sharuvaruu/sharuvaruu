@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/sharuvaruu">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,julia,bash,js,html,css,react,redux,nodejs,express,mongodb,typescript,kotlin,next,angular" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman" />
   </a>
 </p>
 
