@@ -5,7 +5,9 @@
 ### Glad to see you here! 🤩
 
 > Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions. Honestly, I am still figuring out life!  
-> Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚
+> Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚  
+> I would love to collaborate on MERN stack and AI/ML/DL projects – let’s create something amazing together!
+
 
 ---
 ## 🔭 About Me
