@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sharvari" />
 
 
-### Glad to see you here! 🤩
+## or just call me sharuvaruu!
 
 > Welcome to my digital playground! I’m a tech enthusiast with a penchant for **Machine Learning**, **Deep Learning**, and **Large Language Models**. When I’m not diving into code or juggling algorithms, you’ll find me building solutions. Honestly, I am still figuring out life!  
 > Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚  
