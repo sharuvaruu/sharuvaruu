@@ -35,36 +35,6 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
   </a>
 </p>
 
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=sharuvaruu&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sharuvaruu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuvaruu&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
-
-<!-- [![Sharvari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharuvaruu&theme=tokyonight)](https://github.com/sharuvaruu/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
-<!--
-📊 **This Week I Spent My Time On** 
-
-text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-
- Last Updated on 24/09/2022 18:53:40 UTC
--->
 ---
 
 ## 🚀 Current Tech Voyages
@@ -98,14 +68,41 @@ No Activity Tracked This Week
   <a href="https://leetcode.com/u/sharvarisalodkar/">LeetCode</a> and
   <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">GeeksforGeeks</a> 
   <br>
-
   
   Follow my <a href="https://github.com/sharuvaruu">GitHub</a>
 </p>
+---
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=sharuvaruu&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sharuvaruu" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuvaruu&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
+<!-- [![Sharvari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharuvaruu&theme=tokyonight)](https://github.com/sharuvaruu/github-readme-stats)-->
+<!-- *** -->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+<!--
+📊 **This Week I Spent My Time On** 
+
+text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 
 
-
-
+ Last Updated on 24/09/2022 18:53:40 UTC
+-->
 ---
 
-Thanks for dropping by! Keep coding, stay curious, and never underestimate the power of a well-placed semicolon. 🌟
+
+## Thanks for dropping by! Keep coding, stay curious, and never underestimate the power of a well-placed semicolon. 🌟
