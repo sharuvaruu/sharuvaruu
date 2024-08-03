@@ -85,27 +85,28 @@ No Activity Tracked This Week
 
 ## 📫 Get in Touch
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sharuvaruu">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="mailto:sharvarisalodkar12@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
-<p align="center">
+<p>
   Explore my coding profiles:
   <a href="https://leetcode.com/u/sharvarisalodkar/">
-    <img src="https://img.shields.io/badge/LeetCode-%23F9DC3F.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%230D7D8C.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
 </p>
+
 
 ---
 
