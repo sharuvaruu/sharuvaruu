@@ -72,6 +72,7 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
   Follow my <a href="https://github.com/sharuvaruu">GitHub</a>
 </p>
 ---
+
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
