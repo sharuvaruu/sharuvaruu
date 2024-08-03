@@ -86,8 +86,8 @@ No Activity Tracked This Week
 ## 📫 Get in Touch
 
 <p align="left">
+  Can reach me through:
   <a href="https://www.linkedin.com/in/sharvari-salodkar-587b611a5/">LinkedIn</a> |
-  <a href="https://github.com/sharuvaruu">GitHub</a> |
   <a href="mailto:sharvarisalodkar12@gmail.com">Email</a>
 </p>
 
@@ -95,6 +95,7 @@ No Activity Tracked This Week
   Explore my coding profiles:
   <a href="https://leetcode.com/u/sharvarisalodkar/">LeetCode</a> |
   <a href="https://www.geeksforgeeks.org/user/sharvarisalodkar12/">GeeksforGeeks</a>
+  Follow my <a href="https://github.com/sharuvaruu">GitHub</a>
 </p>
 
 
