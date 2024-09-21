@@ -31,7 +31,7 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
 
 <p align="center">
   <a href="https://github.com/sharuvaruu">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,tensorflow,linux,heroku,githubactions,github,express,flask,mysql,pytorch,scikitlearn,elasticsearch,tableau,claude,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,tensorflow,linux,heroku,githubactions,github,express,flask,mysql,pytorch,scikitlearn,OpenCV,elasticsearch,tableau,flutter" />
   </a>
 </p>
 
