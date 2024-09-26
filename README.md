@@ -7,13 +7,14 @@
 
 🔭 **I’m currently working on**: [Manasadhana](https://github.com/sharuvaruu/manasadhana) - an AI conversational mental health support bot.
 
-🌱 **I’m currently learning**: Advanced Java OOPs, C++, and Data Structures & Algorithms (DSA).
+🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
 
-👯 **I’m looking to collaborate on**: MERN stack and AI/ML/DL projects.
+👯 **I’m looking to collaborate on**: AI/ML/DL projects.
 
-🤝 **I’m looking for help with**: Deep Learning and Large Language Models (LLMs).
+🤝 **Can help you with**: machine Learning and Deep Learning.
 
 ⚡ **Fun fact**: I love coding and storytelling! 📚
+
 
 
 ---
