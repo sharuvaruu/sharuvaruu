@@ -10,19 +10,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
 
-🔭 **I’m currently working on**:  
-- [Manasadhana](https://github.com/sharuvaruu/manasadhana): An AI conversational mental health support bot with features like mood tracking and stress-relief exercises.
+🔭 **I’m currently working on**: [Manasadhana](https://github.com/sharuvaruu/manasadhana) - an AI conversational mental health support bot.
 
-🌱 **I’m currently learning**:  
-- Advanced Java OOPs, C++, and Data Structures & Algorithms (DSA).
+🌱 **I’m currently learning**: Advanced Java OOPs, C++, and Data Structures & Algorithms (DSA).
 
-👯 **I’m looking to collaborate on**:  
-- MERN stack and AI/ML/DL projects.
+👯 **I’m looking to collaborate on**: MERN stack and AI/ML/DL projects.
 
-🤝 **I’m looking for help with**:  
-- Deep Learning and Large Language Models (LLMs).
+🤝 **I’m looking for help with**: Deep Learning and Large Language Models (LLMs).
 
 ⚡ **Fun fact**: I love coding and storytelling! 📚
+
 
 ---
 
