@@ -78,14 +78,23 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
 
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=sharuvaruu&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sharuvaruu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuvaruu&theme=dark&hide_border=true&layout=compact"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sharuvaruu&show_icons=true&theme=dark&hide_border=true" alt="sharuvaruu" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuvaruu&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharuvaruu&theme=dark&hide_border=true" alt="sharuvaruu" /></td>
-    <td><img src="https://activity-graph.herokuapp.com/graph?username=sharuvaruu&theme=react-dark&hide_border=true" alt="sharuvaruu" /></td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharuvaruu&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=sharuvaruu&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+    </td>
   </tr>
 </table>
+
 
 ---
 
