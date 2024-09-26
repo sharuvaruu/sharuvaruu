@@ -11,7 +11,7 @@
 
 👯 **I’m looking to collaborate on**: AI/ML/DL projects.
 
-🤝 **Can help you with**: machine Learning and Deep Learning.
+🤝 **Can help you with**: Machine Learning and Deep Learning.
 
 ⚡ **Fun fact**: I love coding and storytelling! 📚
 
