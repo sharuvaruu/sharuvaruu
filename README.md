@@ -5,15 +5,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
 
-🔭 **I’m currently working on**: [Manasadhana](https://github.com/sharuvaruu/manasadhana) - an AI conversational mental health support bot.
+## Glad you stumbled here!!!
+---
 
-🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
+![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
 
-👯 **I’m looking to collaborate on**: AI/ML/DL projects.
+- 🔭 **I’m currently working on**: [Manasadhana](https://github.com/sharuvaruu/manasadhana) - an AI conversational mental health support bot.
 
-🤝 **Can help you with**: Machine Learning and Deep Learning.
+- 🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
 
-⚡ **Fun fact**: I love coding and storytelling! 📚
+- 👯 **I’m looking to collaborate on**: AI/ML/DL projects.
+
+- 🤝 **Can help you with**: Machine Learning and Deep Learning.
+
+- ⚡ **Fun fact**: I love coding and storytelling! 📚
+
+- 🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/sharuvaruu)
+
 
 ---
 
