@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sharvari" />
 
-## Glad you stumbled here!!!
+## Glad you stumbled here!
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
@@ -14,8 +14,6 @@
 🤝 **Can help you with**: Machine Learning and Deep Learning.
 
 ⚡ **Fun fact**: I love coding and storytelling! 📚
-
-
 
 ---
 
@@ -77,35 +75,24 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
 ---
 
 ## ⚙️ &nbsp;GitHub Analytics
+
 <table style="width:100%">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=sharuvaruu&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sharuvaruu" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuvaruu&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharuvaruu&theme=dark&hide_border=true" alt="sharuvaruu" /></td>
+    <td><img src="https://activity-graph.herokuapp.com/graph?username=sharuvaruu&theme=react-dark&hide_border=true" alt="sharuvaruu" /></td>
+  </tr>
 </table>
 
-<!-- [![Sharvari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharuvaruu&theme=tokyonight)](https://github.com/sharuvaruu/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
-<!--
-📊 **This Week I Spent My Time On** 
+---
 
-text
-⌚︎ Time Zone: Asia/Kolkata
+## 📊 GitHub Profile Summary Card
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharuvaruu&theme=github_dark" alt="GitHub Profile Summary Card" />
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-
- Last Updated on 24/09/2022 18:53:40 UTC
--->
 ---
 
 ## Thanks for dropping by! Keep coding, stay curious, and never underestimate the power of a well-placed semicolon. 🌟
