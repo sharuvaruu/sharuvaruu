@@ -87,13 +87,14 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharuvaruu&theme=dark&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharuvaruu&theme=dark" alt="Repositories per Language" />
     </td>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=sharuvaruu&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharuvaruu&theme=dark" alt="Most Commit Language" />
     </td>
   </tr>
 </table>
+
 
 
 ---
