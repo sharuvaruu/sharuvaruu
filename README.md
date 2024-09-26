@@ -1,6 +1,4 @@
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sharvari" />
-
 
 ## Glad you stumbled here!!!
 
@@ -8,12 +6,23 @@
 > Oh, and I’m also a writer by passion – because who doesn’t love a good story with their code? 📚  
 > I would love to collaborate on MERN stack and AI/ML/DL projects – let’s create something amazing together!
 
-
 ---
-## 🔭 About Me
 
-- **Name**: Sharvari Salodkar
-- **Education**: B.Tech in Information Technology from SGGSIE&T
+![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
+
+🔭 **I’m currently working on**:  
+- [Manasadhana](https://github.com/sharuvaruu/manasadhana): An AI conversational mental health support bot with features like mood tracking and stress-relief exercises.
+
+🌱 **I’m currently learning**:  
+- Advanced Java OOPs, C++, and Data Structures & Algorithms (DSA).
+
+👯 **I’m looking to collaborate on**:  
+- MERN stack and AI/ML/DL projects.
+
+🤝 **I’m looking for help with**:  
+- Deep Learning and Large Language Models (LLMs).
+
+⚡ **Fun fact**: I love coding and storytelling! 📚
 
 ---
 
@@ -34,8 +43,6 @@ A sophisticated Jupyter Notebook project that clusters text and models topics. I
     <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,tensorflow,linux,heroku,githubactions,github,express,flask,mysql,pytorch,scikitlearn,elasticsearch,flutter" />
   </a>
 </p>
-
-
 
 ---
 
@@ -107,6 +114,5 @@ No Activity Tracked This Week
  Last Updated on 24/09/2022 18:53:40 UTC
 -->
 ---
-
 
 ## Thanks for dropping by! Keep coding, stay curious, and never underestimate the power of a well-placed semicolon. 🌟
