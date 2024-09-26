@@ -1,10 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sharvari" />
 
-## Glad you stumbled here!
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
-
 ## Glad you stumbled here!!!
 ---
 
