@@ -10,11 +10,13 @@
 
 - 👯 **I’m looking to collaborate on**: AI/ML/DL projects.
 
+- 🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/sharuvaruu)
+
 - 🤝 **Can help you with**: Machine Learning and Deep Learning.
 
 - ⚡ **Fun fact**: I love coding and storytelling! 📚
 
-- 🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/sharuvaruu)
+
 
 
 ---
