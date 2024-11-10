@@ -4,19 +4,19 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
 
-- 🔭 **I’m currently working on**: [Manasadhana](https://github.com/sharuvaruu/manasadhana) - an AI conversational mental health support bot.
+🔭 **I’m currently working on**: [Cross-Lingual Information Retrieval](https://github.com/sharuvaruu/cross-lingual-info-retrieval) - A full-stack application that enables cross-language search between English and Hindi using advanced NLP/DL techniques.  
 
-- 🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
+🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
 
-- 👯 **I’m looking to collaborate on**: AI/ML/DL projects.
+👯 **I’m looking to collaborate on**: AI/ML/DL projects.
 
-- 🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/sharuvaruu)
+🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/sharuvaruu)
 
-- 🤝 **Can help you with**: Machine Learning and Deep Learning.
+🌐 Check out my website: [Sharvari's Portfolio](https://sharuvaruu.netlify.app/)
 
-- ⚡ **Fun fact**: I love coding and storytelling! 📚
+🤝 **Can help you with**: Machine Learning and Deep Learning.
 
-
+⚡ **Fun fact**: I love coding and storytelling! 📚
 
 
 ---
