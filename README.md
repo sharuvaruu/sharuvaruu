@@ -4,7 +4,7 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sharuvaruu&color=brightgreen)
 
-🔭 **I’m currently working on**: [Cross-Lingual Information Retrieval](https://github.com/sharuvaruu/cross-lingual-info-retrieval) - A full-stack application that enables cross-language search between English and Hindi using advanced NLP/DL techniques.  
+🔭 **I’m currently working on**: [Cross-Lingual Information Retrieval](https://github.com/sharuvaruu/cross-lingual-info-retrieval) 
 
 🌱 **I’m currently learning**: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
 
